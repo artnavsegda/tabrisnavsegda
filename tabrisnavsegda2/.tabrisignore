@@ -1,0 +1,5 @@
+.eslintrc
+.gitignore
+node_modules/**/*.d.ts
+package-lock.json
+README.md
